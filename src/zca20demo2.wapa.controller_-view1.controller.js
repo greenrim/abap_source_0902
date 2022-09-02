@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/mvc/Controller"],function(n,e){"use strict";return n.extend("sync.zca20demo2.controller.View1",{onInit:function(){},onSelectChange:function(){}})});                                                                               
