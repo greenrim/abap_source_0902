@@ -1,0 +1,15 @@
+*&---------------------------------------------------------------------*
+*& Modulpool SAPBC414_TRAVELAG_T
+*&---------------------------------------------------------------------*
+
+
+INCLUDE ZBC411_A20_1_TTOP.
+*INCLUDE BC414_TRAVELAG_TTOP.
+INCLUDE ZBC411_A20_1_TF01.
+*INCLUDE BC414_TRAVELAG_TF01.
+INCLUDE ZBC411_A20_1_TO01.
+*INCLUDE BC414_TRAVELAG_TO01.
+INCLUDE ZBC411_A20_1_TI01.
+*INCLUDE BC414_TRAVELAG_TI01.
+INCLUDE ZBC411_A20_1_TE01.
+*INCLUDE BC414_TRAVELAG_TE01.
